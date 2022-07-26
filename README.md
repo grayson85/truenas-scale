@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/37401242/180915686-b4e703c6-a901-4de8-b942-521da8d46fa8.png)
 ![image](https://user-images.githubusercontent.com/37401242/180915869-c3a4d2e0-7990-48a7-9abc-87319a82fa6c.png)
 
-Above setup allowed your client VPN and connect to your private network. However, the client unable to browse internet through the VPN. 
+Above setup allowed your client VPN to connect your private network. However, the client unable to browse internet through the VPN. 
 
 In order to browse internet, you need to add MASQUERADE.
 ```
